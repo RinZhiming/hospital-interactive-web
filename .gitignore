@@ -26,6 +26,7 @@
 /[Aa]ssets/Scenes
 
 # meta file
+/[Aa]ssets/Scenes.meta
 /[Aa]ssets/DTT.meta
 /[Aa]ssets/Arkham Interactive.meta
 /[Aa]ssets/Font.meta
